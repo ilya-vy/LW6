@@ -1,0 +1,13 @@
+C:\Users\JawJag\source\repos\ООП_ЛР6_З2\ООП_ЛР6_З2\obj\Debug\netcoreapp3.1\ООП_ЛР6_З2.csprojAssemblyReference.cache
+C:\Users\JawJag\source\repos\ООП_ЛР6_З2\ООП_ЛР6_З2\obj\Debug\netcoreapp3.1\ООП_ЛР6_З2.AssemblyInfoInputs.cache
+C:\Users\JawJag\source\repos\ООП_ЛР6_З2\ООП_ЛР6_З2\obj\Debug\netcoreapp3.1\ООП_ЛР6_З2.AssemblyInfo.cs
+C:\Users\JawJag\source\repos\ООП_ЛР6_З2\ООП_ЛР6_З2\obj\Debug\netcoreapp3.1\ООП_ЛР6_З2.csproj.CoreCompileInputs.cache
+C:\Users\JawJag\source\repos\ООП_ЛР6_З2\ООП_ЛР6_З2\bin\Debug\netcoreapp3.1\ООП_ЛР6_З2.exe
+C:\Users\JawJag\source\repos\ООП_ЛР6_З2\ООП_ЛР6_З2\bin\Debug\netcoreapp3.1\ООП_ЛР6_З2.deps.json
+C:\Users\JawJag\source\repos\ООП_ЛР6_З2\ООП_ЛР6_З2\bin\Debug\netcoreapp3.1\ООП_ЛР6_З2.runtimeconfig.json
+C:\Users\JawJag\source\repos\ООП_ЛР6_З2\ООП_ЛР6_З2\bin\Debug\netcoreapp3.1\ООП_ЛР6_З2.runtimeconfig.dev.json
+C:\Users\JawJag\source\repos\ООП_ЛР6_З2\ООП_ЛР6_З2\bin\Debug\netcoreapp3.1\ООП_ЛР6_З2.dll
+C:\Users\JawJag\source\repos\ООП_ЛР6_З2\ООП_ЛР6_З2\bin\Debug\netcoreapp3.1\ООП_ЛР6_З2.pdb
+C:\Users\JawJag\source\repos\ООП_ЛР6_З2\ООП_ЛР6_З2\obj\Debug\netcoreapp3.1\ООП_ЛР6_З2.dll
+C:\Users\JawJag\source\repos\ООП_ЛР6_З2\ООП_ЛР6_З2\obj\Debug\netcoreapp3.1\ООП_ЛР6_З2.pdb
+C:\Users\JawJag\source\repos\ООП_ЛР6_З2\ООП_ЛР6_З2\obj\Debug\netcoreapp3.1\ООП_ЛР6_З2.genruntimeconfig.cache
